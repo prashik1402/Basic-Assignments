@@ -43,7 +43,7 @@ int main()
         printf("\n 3)Add members");
         printf("\n 4)Delete Presitent");
         printf("\n 5)Display");
-        printf("\n 7)Exit");
+        printf("\n 6)Exit");
         printf("\nYour choice : ");
         scanf("%d", &ch);
 
@@ -73,7 +73,7 @@ int main()
             display(head);
             break;
 
-        case 7:
+        case 6:
             printf("\n Thank you :)  \n");
             break;
 
@@ -81,7 +81,7 @@ int main()
             printf("\n Invalid Entry !!! \n");
             break;
         }
-    } while (ch != 7);
+    } while (ch != 6);
 }
 
 struct club_information *create()
