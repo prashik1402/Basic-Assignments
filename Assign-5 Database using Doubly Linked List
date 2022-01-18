@@ -6,7 +6,6 @@ d) Display list forward
 Display list backward
 
    Written By :Prashik Chavan
-         Date :25/11/2021
       Roll No.:SEITA120
 */ 
 #include<stdio.h> #include  <stdlib.h>
