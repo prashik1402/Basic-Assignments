@@ -1,8 +1,9 @@
-/*Represent sets using one-dimensional arrays and implement functions to perform
-i. Union
-ii. Intersection
-iii. Difference
-iv. Symmetric difference of two sets
+/*Implement any database using a doubly-linked list with the following options
+a) Insert a record
+b) delete a record
+c) modify a record
+d) Display list forward
+Display list backward
 
    Written By :Prashik Chavan
          Date :25/11/2021
